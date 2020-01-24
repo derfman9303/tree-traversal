@@ -1,0 +1,3 @@
+## What is this?
+
+> this is my solution to the Tree traversal coding challenge. It is a simple algorithm written in Ruby to search a tree, which is similar to a linked list, consisting of nodes that carry a payload value and point to zero or more other nodes. It uses two different search patterns; the depth-first, and the breadth-first pattern. You start the search by calling either method, and pass the desired starting node and the payload of the node you wish to find.
